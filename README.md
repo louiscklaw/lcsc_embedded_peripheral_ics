@@ -1,0 +1,2 @@
+# lcsc_embedded_peripheral_ics
+lcsc_embedded_peripheral_ics
